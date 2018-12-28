@@ -1,0 +1,10 @@
+.TodoList {
+  margin: 15px;
+  font-family: arial;
+  font-size: 24px;
+  cursor: pointer;
+}
+    
+li {
+    padding: 20px;
+}
